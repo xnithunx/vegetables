@@ -2,7 +2,7 @@
 
 ---
 
-![https://i.giphy.com/media/3yG92y6kA0i64/giphy.webp](https://i.giphy.com/media/3yG92y6kA0i64/giphy.webp)
+![veg.gif](veg.gif)
 
 ---
 
