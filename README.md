@@ -14,6 +14,8 @@
 
 - Use the Bootstrap components classes to add an alert, search form to the page.
 
+Use the docs: [https://getbootstrap.com/docs/4.1/getting-started/introduction/](https://getbootstrap.com/docs/4.1/getting-started/introduction/)
+
 ---
 
 Bonus: Turn the sidebar list into a nav element, displayed as stacked pills.
